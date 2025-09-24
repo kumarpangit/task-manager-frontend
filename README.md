@@ -1,6 +1,7 @@
 To run the Application:
 
 npm install
+
 npm run dev
 
 URL for the Application: http://localhost:3000
